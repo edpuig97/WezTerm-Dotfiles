@@ -14,7 +14,7 @@ config = {
 	-- font = wezterm.font 'Source Code Pro',
 	font = wezterm.font 'Cascadia Code',
 	-- font = wezterm.font('JetBrains Mono', { weight = "DemiBold"}),
-	font_size = 10.8,
+	font_size = 12,
 	line_height = 1.1,
 	--enable_tab_bar = false,
 	--hide_tab_bar_if_only_one_tab = true,
